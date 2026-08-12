@@ -11,3 +11,5 @@ Description of files
 **make_fixed_positions.py** - Identifies peptide residue positions in PDB files of scaffold models and generates a JSONL file specifying fixed positions for ProteinMPNN sequence design.
 
 **select_min_global_score.py** - Selects the amino acid primary sequence with the lowest ProteinMPNN score for the scaffold models. 
+
+**NS1_denv*_selected_clustered.py** - Bayesian analysis inputs. 
